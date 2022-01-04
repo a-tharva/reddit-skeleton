@@ -1,1 +1,1 @@
-pass
+TOKEN = ''
